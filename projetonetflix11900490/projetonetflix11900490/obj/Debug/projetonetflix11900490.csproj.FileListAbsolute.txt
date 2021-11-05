@@ -1,0 +1,45 @@
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\bin\Debug\projetonetflix11900490.exe.config
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\bin\Debug\projetonetflix11900490.exe
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\bin\Debug\projetonetflix11900490.pdb
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\bin\Debug\MySqlConnector.dll
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\bin\Debug\System.Buffers.dll
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\bin\Debug\System.Memory.dll
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\bin\Debug\System.Numerics.Vectors.dll
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\bin\Debug\MySqlConnector.xml
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\bin\Debug\System.Buffers.xml
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\bin\Debug\System.Memory.xml
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\bin\Debug\System.Numerics.Vectors.xml
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\obj\Debug\projetonetflix11900490.csprojAssemblyReference.cache
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\obj\Debug\projetonetflix11900490.Properties.Resources.resources
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\obj\Debug\projetonetflix11900490.Ui.Frm_Netflix.resources
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\obj\Debug\projetonetflix11900490.csproj.GenerateResource.cache
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\obj\Debug\projetonetflix11900490.csproj.CopyComplete
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\obj\Debug\projetonetflix11900490.exe
+H:\Visual Studio 2019\Projects\projetonetflix11900490\projetonetflix11900490\obj\Debug\projetonetflix11900490.pdb
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\bin\Debug\projetonetflix11900490.exe.config
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\bin\Debug\projetonetflix11900490.exe
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\bin\Debug\projetonetflix11900490.pdb
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\bin\Debug\MySqlConnector.dll
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\bin\Debug\System.Buffers.dll
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\bin\Debug\System.Memory.dll
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\bin\Debug\System.Numerics.Vectors.dll
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\bin\Debug\MySqlConnector.xml
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\bin\Debug\System.Buffers.xml
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\bin\Debug\System.Memory.xml
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\bin\Debug\System.Numerics.Vectors.xml
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\obj\Debug\projetonetflix11900490.csproj.AssemblyReference.cache
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\obj\Debug\projetonetflix11900490.Properties.Resources.resources
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\obj\Debug\projetonetflix11900490.Ui.Frm_Netflix.resources
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\obj\Debug\projetonetflix11900490.csproj.GenerateResource.cache
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\obj\Debug\projetonetflix11900490.csproj.CoreCompileInputs.cache
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\obj\Debug\projetonetflix11900490.csproj.CopyComplete
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\obj\Debug\projetonetflix11900490.exe
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\obj\Debug\projetonetflix11900490.pdb
