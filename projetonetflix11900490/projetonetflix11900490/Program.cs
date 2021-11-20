@@ -16,7 +16,7 @@ namespace projetonetflix11900490
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Ui.Frm_Netflix());
+            Application.Run(new Ui.Frm_Login());
         }
     }
 }

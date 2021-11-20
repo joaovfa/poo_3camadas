@@ -66,11 +66,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Code\BLL\LoginBLL.cs" />
     <Compile Include="Code\BLL\NetflixBLL.cs" />
     <Compile Include="Code\DAL\AcessoBancoDados.cs" />
+    <Compile Include="Code\DTO\LoginDTO.cs" />
     <Compile Include="Code\DTO\NetflixDTO.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Ui\Frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ui\Frm_Login.Designer.cs">
+      <DependentUpon>Frm_Login.cs</DependentUpon>
+    </Compile>
     <Compile Include="Ui\Frm_Netflix.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -86,6 +94,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Ui\Frm_Login.resx">
+      <DependentUpon>Frm_Login.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Ui\Frm_Netflix.resx">
       <DependentUpon>Frm_Netflix.cs</DependentUpon>
     </EmbeddedResource>

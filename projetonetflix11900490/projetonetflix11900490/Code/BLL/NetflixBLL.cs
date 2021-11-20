@@ -34,12 +34,14 @@ namespace projetonetflix11900490.Code.BLL
 
         public void Editar(NetflixDTO meddDto) 
         {
-            string alterar = $"update {tabela} set usuario = '{meddDto.Usuario}', assistindo_no_momento '{meddDto.Titulo_assitido_no_momento}' where id = '{meddDto.Id}';";
+            string alterar = $"update {tabela} set usuario = '{meddDto.Usuario}', assistindo_no_momento = '{meddDto.Titulo_assitido_no_momento}' where id = '{meddDto.Id}';";
+            conexao.ExecutarComando(alterar);
         }
 
         public void Excluir(NetflixDTO medDto) 
         {
             string excluir = $"delete from {tabela} where id = '{medDto.Id}';";
+            conexao.ExecutarComando(excluir);
         }
     }
 }

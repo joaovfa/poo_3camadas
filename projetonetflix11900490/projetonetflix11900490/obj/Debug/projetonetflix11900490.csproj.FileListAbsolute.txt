@@ -43,3 +43,4 @@ D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix
 D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\obj\Debug\projetonetflix11900490.csproj.CopyComplete
 D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\obj\Debug\projetonetflix11900490.exe
 D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\obj\Debug\projetonetflix11900490.pdb
+D:\desktop_cotemig\arquivos_04-11-21_20h16\projetonetflix11900490\projetonetflix11900490\obj\Debug\projetonetflix11900490.Ui.Frm_Login.resources
